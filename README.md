@@ -15,9 +15,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkaw4dkczhcs2qjevctkfky76y&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=0ee1d3&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkaw4dkczhcs2qjevctkfky76y&cover_image=true&theme=novatorem&show_offline=false&background_color=212121&interchange=false&bar_color=0ee1d3&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 <!--
 **Noov-hub/Noov-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
