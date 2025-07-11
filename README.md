@@ -5,6 +5,10 @@
     ─▄▄──█░░░░░░░░░░░█──▄▄
     █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  MIAU
 ```
+
+
+[![Ibnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noov-hub&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noov-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noov-hub&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
